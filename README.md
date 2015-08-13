@@ -1,4 +1,4 @@
-# calculadora_jQuery.
+# calculadora_jQuery
 # Framework: CodeIgniter.
 # Lenguajes: Php, javascript, jQuery y HTML5.
 # Autor: Pablo Díaz García.

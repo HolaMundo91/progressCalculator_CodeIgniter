@@ -1,10 +1,10 @@
-# calculadora_jQuery
+# calculadora_jQuery.
 # Framework: CodeIgniter.
 # Lenguajes: Php, javascript, jQuery y HTML5.
 # Autor: Pablo Díaz García.
 # Video explicativo: 
 # Mi blog: http://pablojdg.blogspot.com.es/
-# Proyecto: RegaloConsolas.com
+# Proyecto: http://regaloconsolas.com/
 
 Antes de nada vamos a empezar por explicar un poco de que va RegaloConsolas.com, ya que sino no le veréis sentido al programa realizado.
 

@@ -4,7 +4,7 @@
 # Autor: Pablo Díaz García.
 # Video explicativo: 
 # Mi blog: http://pablojdg.blogspot.com.es/
-# Proyecto: http://regaloconsolas.com/
+# Proyecto: regaloconsolas
 
 Antes de nada vamos a empezar por explicar un poco de que va RegaloConsolas.com, ya que sino no le veréis sentido al programa realizado.
 

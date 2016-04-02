@@ -2,7 +2,7 @@
 # Framework: CodeIgniter.
 # Lenguajes: Php, javascript, jQuery y HTML5.
 # Autor: Pablo Díaz García.
-# Video explicativo: 
+# Video explicativo: https://www.livecoding.tv/video/calculadora-jquery-en-codeigniter/
 # Mi blog: http://pablojdg.blogspot.com.es/
 # Proyecto: regaloconsolas
 
